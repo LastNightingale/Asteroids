@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Projectile" Collapsed="true">
+    <Position X="11.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQgoAAAAIAAIAAAAAAAAAAAAAAAAAABAABgAABAIAA=</HashCode>
+      <FileName>Asteroids.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Asteroid">
+    <Position X="5.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAIAAAAIAAIAAAAAEAAAAAAAAAAAABAQBgAQBAAAA=</HashCode>
+      <FileName>Asteroids.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UFO" Collapsed="true">
+    <Position X="10.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAKACIiAAAAAAgAAAAAAAAAABBQAAAAAAAQA=</HashCode>
+      <FileName>Asteroids.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UFOProjectile">
+    <Position X="7.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAQAIAAIgAAAAAQAAAAAAAAAAADAQBgAAAAAAA=</HashCode>
+      <FileName>Asteroids.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Player" Collapsed="true">
+    <Position X="3.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAIAAAAKAIIAAAAAGIAAAAEAAAAAABAAAAASBAAAg=</HashCode>
+      <FileName>Asteroids.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game" Collapsed="true">
+    <Position X="8.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>oQMExDggLIBwiBwAAI42BGGCIEsEAUCpBjQCRQAEEAo=</HashCode>
+      <FileName>Asteroids.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
